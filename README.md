@@ -103,6 +103,9 @@
 </p>
 
 ---
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shivam_1499?theme=dark&font=Karma&ext=contest)
 
 ## 💡 Quote
 
@@ -115,3 +118,4 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"/>
+
