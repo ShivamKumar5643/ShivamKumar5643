@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Shivam Pandey
+# Hi 👋, I'm Shivam Kumar
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Java+Developer;SQL+%7C+MongoDB+Enthusiast;DSA+Learner;Always+Learning+New+Things+🚀" />
 
