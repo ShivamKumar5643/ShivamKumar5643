@@ -6,7 +6,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FF6A00&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&animation=fadeIn"/>
 
 ---
 
